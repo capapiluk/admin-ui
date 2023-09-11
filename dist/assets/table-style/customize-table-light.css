@@ -1,0 +1,20 @@
+.customize-table {
+  --easy-table-row-border: 1px solid #eff0f2;
+  --easy-table-border: 1px solid #eff0f2;
+
+  --easy-table-header-font-size: 13px;
+  --easy-table-header-item-padding: 0px 10px;
+  --easy-table-header-item-padding: 14px 10px 14px 10px;
+  --easy-table-header-background-color: #f8f9fa;
+  --easy-table-header-font-color: #0e0e0f;
+
+
+  --easy-table-body-row-font-size: 14px;
+  --easy-table-body-row-hover-background-color: #f8f9fa;
+  --easy-table-body-item-padding: 14px 10px 14px 10px;
+  --easy-table-body-row-font-color:#0e0e0f;
+
+
+  --easy-table-footer-height: 50px;
+  --easy-table-footer-font-size: 13px;
+}

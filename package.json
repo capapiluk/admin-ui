@@ -1,0 +1,32 @@
+{
+  "name": "admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@bhplugin/vue3-datatable": "^1.1.1",
+    "@marcoschulte/vue3-progress": "^0.0.7",
+    "@popperjs/core": "^2.11.8",
+    "@vueuse/core": "^10.2.1",
+    "axios": "^1.5.0",
+    "bootstrap": "5.2",
+    "jquery": "^3.7.0",
+    "metismenu": "^3.0.7",
+    "notivue": "^1.2.4",
+    "pinia": "^2.1.6",
+    "vite-svg-loader": "^4.0.0",
+    "vue-router": "^4.2.4",
+    "vue3-easy-data-table": "^1.5.47"
+  },
+  "devDependencies": {
+    "@rollup/plugin-inject": "^5.0.3",
+    "@types/node": "^20.4.1",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.0"
+  }
+}

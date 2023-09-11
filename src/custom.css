@@ -1,0 +1,21 @@
+@import "/node_modules/@marcoschulte/vue3-progress/dist/";
+
+/*@font-face {
+    font-family: 'IBMPlexSansThai'; 
+    src: url('/src/fonts/IBMPlexSansThai-Regular.ttf') format('truetype'); 
+    font-weight: 500;
+    font-style: 500;
+  }
+  */
+@import url("https://fonts.googleapis.com/css2?family=Sarabun&display=swap");
+*,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Sarabun", sans-serif;
+}
+
+
